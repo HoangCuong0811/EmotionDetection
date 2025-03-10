@@ -41,3 +41,5 @@ git clone https://github.com/HoangCuong0811/EmotionDetection
 
 ```
 
+[![Emotional Detection Demo](https://www.youtube.com/watch?v=QyNrtDEi6ng)](https://www.youtube.com/watch?v=QyNrtDEi6ng)
+
