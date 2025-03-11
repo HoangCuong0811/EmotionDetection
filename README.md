@@ -34,12 +34,5 @@ The CNN model consists of:
 - **Dropout** (to prevent overfitting)
 - **Fully Connected (Dense) Layers** (for final classification)
 
-## 📌 Installation
-```bash
-# Clone this repository
-git clone https://github.com/HoangCuong0811/EmotionDetection
-
-```
-
 [![Emotional Detection Demo](https://www.youtube.com/watch?v=KQ4b5rtMksc)](https://www.youtube.com/watch?v=KQ4b5rtMksc)
 
