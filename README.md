@@ -1,5 +1,7 @@
 # EmotionDetection# Real-Time Emotion Detection using CNN
 
+[![Emotional Detection Demo](https://www.youtube.com/watch?v=KQ4b5rtMksc)](https://www.youtube.com/watch?v=KQ4b5rtMksc)
+
 ## 📌 Introduction
 This project implements **Real-Time Emotion Detection** using **Convolutional Neural Networks (CNNs)**. It detects human emotions from facial expressions and can process both **static images** and **real-time video streams** from an integrated camera.
 
@@ -33,6 +35,4 @@ The CNN model consists of:
 - **Max Pooling** (for down-sampling important features)
 - **Dropout** (to prevent overfitting)
 - **Fully Connected (Dense) Layers** (for final classification)
-
-[![Emotional Detection Demo](https://www.youtube.com/watch?v=KQ4b5rtMksc)](https://www.youtube.com/watch?v=KQ4b5rtMksc)
 
